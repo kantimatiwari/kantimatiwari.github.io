@@ -7,14 +7,19 @@
 </div>
 
 # Welcome aboard! 
-<i></i>
-<p><span class="bold">Welcome aboard!</span> ![gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-</p>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kantima-tiwari/)
-  [![Instagram](https://img.shields.io/badge/instagram-%2300acee.svg?color=AA336A&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_t_t_2003/)
-  [![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kantimatiwari1@gmail.com)
+
+
+<div  align="center">
+  <a href="https://www.linkedin.com/in/kantima-tiwari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;"/>
+  </a>
+  <a href="https://www.instagram.com/_t_t_2003/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=AA336A&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:kantimatiwari1@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 ---
