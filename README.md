@@ -25,7 +25,7 @@
 ---
 
 ### About Me
-**I am `Kantima Tiwari`, an `Aspiring Unity Game Developer & AWS DevOps Engineer`** ![gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) from Nagpur, India.
+**I am `Kantima Tiwari`, an `Aspiring Unity Game Developer & AWS DevOps Engineer`** from Nagpur, India.
 - :telescope: I'm a recent graduate in `Bachelor of Technology` degree at Nagpur University with a focus on `Information Technology`.
 - :computer: Passionate about the intersection of technology and efficiency, particularly within software development and operations.
 - :gear: `Aspiring Software Engineer` with a solid foundation in `DevOps, AWS` and `Unity Game Engine` concepts.
