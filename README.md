@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/kantima-tiwari/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;"/>
   </a>
-  <a href="https://www.instagram.com/_t_t_2003/" target="_blank">
+  <a href="https://www.instagram.com/_t_t_2003/">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=AA336A&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:kantimatiwari1@gmail.com" target="_blank">
+  <a href="mailto:kantimatiwari1@gmail.com">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
 </div>
